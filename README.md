@@ -1,6 +1,10 @@
 # Angular-versiones
 Proyectos de angular en versiones diferentes, inicio en la versión 11
 
+## Temas
+
+* Lazy Loading
+
 ```
 CREAR MÓDULOS:
 
@@ -63,3 +67,6 @@ Preload modules in background:
 })
 
 ```
+# ADD BOOTSTRAP IN ANGULAR 11
+* **https://therichpost.com/add-bootstrap-in-angular-11/**
+
