@@ -4,6 +4,10 @@ Proyectos de angular en versiones diferentes, inicio en la versión 11
 ## Temas
 
 * Lazy Loading
+* Angular Material
+* Bootstrap
+
+## Comandos CLI
 
 ```
 CREAR MÓDULOS:
@@ -67,6 +71,6 @@ Preload modules in background:
 })
 
 ```
-# ADD BOOTSTRAP IN ANGULAR 11
+## ADD BOOTSTRAP IN ANGULAR 11
 * **https://therichpost.com/add-bootstrap-in-angular-11/**
 
