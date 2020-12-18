@@ -71,6 +71,15 @@ Preload modules in background:
 })
 
 ```
+## ANGULAR MATERIAL
+
+```
+ng add @angular/material
+ng g m app-material -m=app --flat (Crear un módulo especifico para Angular Material)
+
+
+```
+
 ## ADD BOOTSTRAP IN ANGULAR 11
 * **https://therichpost.com/add-bootstrap-in-angular-11/**
 
